@@ -1,4 +1,4 @@
-from utils.text_splitter import split_docs
+from utils.doc_splitter import split_docs
 from utils.embeddings import get_embeddings_model
 from utils.vectorstore import create_vectorstore
 from utils.qa_chain import get_llm, create_qa_chain
@@ -33,8 +33,8 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 if uploaded_file and  "qa" not in st.session_state:
-    text = load_pdf(uploaded_file)
-    chunks = split_docs(text)
+    docs= load_pdf(uploaded_file)
+    chunks = split_docs(docs)
     vectordb = create_vectorstore(chunks, embeddings_model)
     st.session_state.qa = create_qa_chain(vectordb, llm)
 

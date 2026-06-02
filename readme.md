@@ -57,9 +57,9 @@ Puis :
 
 ## Aperçu de l’interface
 
-![Aperçu de l’interface AskMyDoc](assets/askmydoc-ui.svg)
+![Aperçu de l’interface AskMyDoc](assets/illustration_app.png)
 
-> Exemple de capture d’écran illustrant l’interface. Remplacez cette image par une capture réelle de votre application pour un aperçu plus fidèle.
+
 
 ## Structure du projet
 
