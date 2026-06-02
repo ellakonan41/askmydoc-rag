@@ -2,7 +2,7 @@
 
 ## Description
 
-AskMyDoc est une application Streamlit qui permet de poser des questions sur le contenu d’un fichier PDF. Le document est chargé, découpé en vecteurs, puis consulté par un modèle OpenAI pour obtenir des réponses et afficher les sources.
+AskMyDoc est une application Streamlit qui aide à poser des questions sur le contenu d’un fichier PDF. L’application charge le document, extrait le texte et le convertit en embeddings, puis interroge un modèle OpenAI pour générer une réponse basée sur les passages pertinents. Le modèle OpenAI ne construit pas l’application ; il fournit les réponses à partir des données extraites et indexées par le pipeline.
 
 ## Fonctionnalités
 
@@ -54,6 +54,12 @@ Puis :
 2. Téléverser un fichier PDF.
 3. Poser une question dans le champ.
 4. Consulter la réponse et les sources.
+
+## Aperçu de l’interface
+
+![Aperçu de l’interface AskMyDoc](assets/askmydoc-ui.svg)
+
+> Exemple de capture d’écran illustrant l’interface. Remplacez cette image par une capture réelle de votre application pour un aperçu plus fidèle.
 
 ## Structure du projet
 
