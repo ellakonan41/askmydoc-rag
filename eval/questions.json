@@ -1,0 +1,27 @@
+[
+  {"question": "En quelle année l'entreprise a-t-elle été créée ?", "reponse_attendue": "En 1998, à Angers.", "page": 1},
+  {"question": "Qui dirige l'entreprise aujourd'hui ?", "reponse_attendue": "Claire Morvan, présidente depuis 2019.", "page": 1},
+  {"question": "Quelle part du chiffre d'affaires est faite à l'étranger ?", "reponse_attendue": "22 %.", "page": 1},
+  {"question": "Quelles sont les plages horaires où je dois obligatoirement être présent ?", "reponse_attendue": "De 10 h à 12 h et de 14 h à 16 h.", "page": 2},
+  {"question": "Combien de jours de télétravail puis-je faire par semaine ?", "reponse_attendue": "Deux jours maximum, jamais le lundi.", "page": 2},
+  {"question": "Est-ce que je touche une indemnité si je travaille depuis chez moi ?", "reponse_attendue": "Oui, 20 euros par mois.", "page": 2},
+  {"question": "Dans quel logiciel dois-je poser mes vacances ?", "reponse_attendue": "Dans Kelio.", "page": 3},
+  {"question": "Quand l'atelier est-il fermé pendant l'été ?", "reponse_attendue": "Les deux premières semaines d'août.", "page": 3},
+  {"question": "Combien de jours puis-je prendre quand mon enfant est malade ?", "reponse_attendue": "5 jours par an, payés à 100 %.", "page": 3},
+  {"question": "Quel est le plafond pour une nuit d'hôtel à Paris ?", "reponse_attendue": "150 euros par nuit.", "page": 4},
+  {"question": "J'ai combien de temps pour envoyer ma note de frais ?", "reponse_attendue": "30 jours après la dépense, dans Spendesk.", "page": 4},
+  {"question": "Qui doit valider un voyage en avion ?", "reponse_attendue": "Le directeur financier, Marc Delaunay.", "page": 4},
+  {"question": "Où faut-il se regrouper quand l'alarme incendie sonne ?", "reponse_attendue": "Sur le parking nord, à côté du portail principal.", "page": 5},
+  {"question": "Tous les combien les chaussures de sécurité sont-elles remplacées ?", "reponse_attendue": "Tous les douze mois.", "page": 5},
+  {"question": "Est-ce que je peux mettre un devis client dans ChatGPT ?", "reponse_attendue": "Non, pas sans l'accord préalable de la DSI.", "page": 6},
+  {"question": "Combien de caractères doit contenir mon mot de passe ?", "reponse_attendue": "Au moins 12 caractères.", "page": 6},
+  {"question": "Quel budget ai-je pour me former chaque année ?", "reponse_attendue": "1 500 euros par an.", "page": 7},
+  {"question": "Combien vaut un ticket resto et quelle part paie l'entreprise ?", "reponse_attendue": "11 euros, dont 60 % pris en charge par l'entreprise.", "page": 8},
+  {"question": "Combien de temps sont garantis les meubles ?", "reponse_attendue": "5 ans pièces et main-d'œuvre, 10 ans pour la structure en bois massif.", "page": 9},
+  {"question": "Quel est le numéro de poste du service RH ?", "reponse_attendue": "Poste 105 (Sophie Lemaire).", "page": 10},
+
+  {"question": "Quel est le salaire de la présidente ?", "reponse_attendue": "HORS DOCUMENT : le système doit dire qu'il ne sait pas.", "page": null},
+  {"question": "Y a-t-il une crèche d'entreprise ?", "reponse_attendue": "HORS DOCUMENT : le système doit dire qu'il ne sait pas.", "page": null},
+  {"question": "Quel est le numéro de SIRET de l'entreprise ?", "reponse_attendue": "HORS DOCUMENT : le système doit dire qu'il ne sait pas.", "page": null},
+  {"question": "Peut-on venir au travail avec son chien ?", "reponse_attendue": "HORS DOCUMENT : le système doit dire qu'il ne sait pas.", "page": null}
+]

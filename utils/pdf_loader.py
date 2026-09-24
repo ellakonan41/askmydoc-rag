@@ -1,5 +1,5 @@
 
-## Code pour charger et extraire en document (Texte +metadata)##
+## Code pour charger et extraire en document (Texte + metadata)##
 import tempfile
 from langchain_community.document_loaders import PyPDFLoader
 
